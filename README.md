@@ -1,6 +1,6 @@
 # C-Programing
 
-### Here You can find Some C++ programs. To Improve in Coding Skills.
+### Here You can find Some C++ programs. To Improve your Coding Skills.
 ### All the programs are Done in Microsoft Visual Studio code
 link:- https://code.visualstudio.com/Download
 
